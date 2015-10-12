@@ -1,0 +1,1 @@
+jPhysics is a physics plugin for jQuery. This plugin gives physics properties to selected DOM elements. You set position, velocity, acceleration, apply forces and update the elements states. You also get a n-dimensional Vector class with basic vectorial operations. Specially useful for JavaScript games.
